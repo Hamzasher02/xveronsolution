@@ -1,0 +1,16 @@
+{
+  "name": "xveronsolution",
+  "version": "1.0.0",
+  "description": "this is my first video lecture for youtub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "hmracode",
+    "gapshapcode"
+  ],
+  "author": "Hamza sher",
+  "license": "ISC"
+}
